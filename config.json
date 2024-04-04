@@ -1,0 +1,48 @@
+{
+  "readmeUrl": "https://github.com/ascendantaditya/ascendantaditya",
+  "title": "1dvlpr Portfolio",
+  "name": "Aditya",
+  "ascii": "1dvlpr",
+  "social": {
+    "github": "ascendantaditya",
+    "linkedin": "webdevaditya"
+  },
+  "email": "adityaacodes01@gmail.com",
+  "ps1_hostname": "portfolio",
+  "ps1_username": "welcome",
+  "repo": "https://github.com/ascendantaditya",
+  "resume_url": "https://ascendantaditya.github.io/pfolio/src/pdf/resume1.pdf",
+  "donate_urls": {
+    "paypal": "https://paypal.me/1dvlpr",
+    "patreon": "https://patreon.com/1dvlpr"
+  },
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#1A1A1A",
+      "foreground": "#FFFFFF",
+      "yellow": "#D4AF37",
+      "green": "#00FF00",
+      "gray": "#696969",
+      "blue": "#6495ED",
+      "red": "#E44CDF"
+    },
+    "oldDark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81A6",
+      "green": "#00FF00",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
